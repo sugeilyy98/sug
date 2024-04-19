@@ -1,0 +1,18 @@
+body{
+    
+    background-image: linear-gradient(#dfb3bd,#d88be7); 
+    display: flex; 
+    gap: 20px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 101vh;
+    flex-direction: column;
+    justify-content: right;
+    align-items: center;
+}
+
+.logo{
+    border-radius: 30%;
+}
